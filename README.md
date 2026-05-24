@@ -51,35 +51,40 @@ EC2 Instance (DCO-Server)
 
 ## Screenshots
 
-**EC2 Instance — Running**
+**EC2 Instance — Launched**
 
 
-![EC2](ec2.jpg)
+![EC2](Screenshot%20(7)
+
+.png)
+
+**IAM Role — Created & Attached**
 
 
+![IAM](Screenshot%20(8)
 
-**IAM Role — Attached to Instance**
+.png)
+
+**EC2 Running + IAM Attached**
 
 
-![IAM](iam.jpg)
+![EC2-IAM](Screenshot%20(10)
 
-
+.png)
 
 **CloudWatch Alarm — Active**
 
 
-![CloudWatch](cloudwatch.jpg)
+![CloudWatch](Screenshot%20(11)
 
-
+.png)
 
 **S3 Bucket — Created**
 
 
-![S3](s3.jpg)
+![S3](Screenshot%20(12)
 
-
-
----
+.png)
 
 ## What I Learned
 
